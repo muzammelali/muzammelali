@@ -32,7 +32,7 @@
 ```yaml
 name: Muzammel Ali
 located_in: Sylhet, Bangladesh
-current_job: Learn and practice new technologies :)
+current_job: Front-end Developer at Appifylab
 education:
   [
     "diploma in Computer Science and Engineering",
@@ -40,12 +40,8 @@ education:
 
 fields_of_interests:
   [
-    "Web Development",
-    "Backend Development",
-    "DevOps",
+    "Backend Development"
   ]
-  
-🥅 2024 Goals: Achieve a satisfactory position in CP
 
 hobbies: ["Reading", "Traveling", "Playing", "Coding"]
 ```
